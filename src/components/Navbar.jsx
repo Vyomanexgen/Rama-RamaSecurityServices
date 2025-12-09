@@ -15,8 +15,6 @@ const Navbar = () => {
     { name: "Testimonials", path: "/testimonials" },
     { name: "Why Us", path: "/whyus" },
     { name: "Contact", path: "/contact" },
-    { name: "Manager", path: "/manager" },
-    { name: "Admin", path: "/admin" }
   ];
 
   return (
