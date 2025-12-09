@@ -24,7 +24,7 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-4 py-3 md:py-4">
         {/* Logo */}
         <div className="flex items-center space-x-2">
-          <img src="/src/assets/ChatGPT Image Dec 5, 2025, 09_02_59 PM.jpg" alt="Logo" className="h-10 w-10 md:h-12 md:w-12" />
+          <img src="/src/assets/Logo.png" alt="Logo" className="h-10 w-10 md:h-12 md:w-12" />
           <h1 className="text-lg md:text-xl font-bold tracking-wide">Security Services</h1>
         </div>
 
